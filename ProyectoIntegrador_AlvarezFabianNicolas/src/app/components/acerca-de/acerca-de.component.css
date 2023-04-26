@@ -17,9 +17,29 @@ text-align: center;
         border-radius: 100%;
         box-shadow: 3px 3px 3px gray;
         left: 2%;
+        top: 600px;
     }
 }
-
+@media (max-width: 575px){
+    #fotodeperfil{
+        position:absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px gray;
+        left: 33%;
+        top: 650px;
+    }
+}
+@media (max-width: 285px){
+    #fotodeperfil{
+        position:absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px gray;
+        left: 33%;
+        top: 600px;
+    }
+}
 
 /*etiqueta del nombre*/
 
