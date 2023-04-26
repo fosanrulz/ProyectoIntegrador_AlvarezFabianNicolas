@@ -1,11 +1,8 @@
 .row {
-
-    padding: 40px;
-
-
+    padding: 25px;
 }
-div {
 
+div {
 background-color: rgb(72, 134, 113);
 text-align: center;
 }
@@ -13,8 +10,8 @@ text-align: center;
 
 /*estilo de la foto de perfil*/
 
-@media (min-width: 576px) {
-    #perfilfoto.jpeg{
+@media (min-width: 576px){
+    #fotodeperfil{
         position: relative;
         width: 15%;
         border-radius: 100%;
