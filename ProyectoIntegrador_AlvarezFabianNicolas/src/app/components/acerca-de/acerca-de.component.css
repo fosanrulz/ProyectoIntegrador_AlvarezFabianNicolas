@@ -9,6 +9,22 @@ div {
 background-color: rgb(72, 134, 113);
 text-align: center;
 }
+
+
+/*estilo de la foto de perfil*/
+
+@media (min-width: 576px) {
+    #fotodeperfil{
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px gray;
+    }
+}
+
+
+/*etiqueta del nombre*/
+
 #nombre{
     font-weight: bold;
     margin-top: 30%;
