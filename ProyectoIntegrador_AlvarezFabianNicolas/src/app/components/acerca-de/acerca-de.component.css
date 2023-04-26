@@ -14,7 +14,7 @@ text-align: center;
 /*estilo de la foto de perfil*/
 
 @media (min-width: 576px) {
-    #fotodeperfil{
+    #perfilfoto{
         position: absolute;
         width: 15%;
         border-radius: 100%;
