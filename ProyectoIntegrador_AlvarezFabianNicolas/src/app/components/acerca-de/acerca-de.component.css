@@ -14,11 +14,12 @@ text-align: center;
 /*estilo de la foto de perfil*/
 
 @media (min-width: 576px) {
-    #perfilfoto{
+    #perfilfoto.jpeg{
         position: relative;
         width: 15%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px gray;
+        left: 35%;
     }
 }
 
